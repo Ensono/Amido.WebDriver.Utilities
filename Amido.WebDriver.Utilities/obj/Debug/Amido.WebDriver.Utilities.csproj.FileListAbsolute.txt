@@ -1,0 +1,8 @@
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Debug\Amido.WebDriver.Utilities.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Debug\Amido.WebDriver.Utilities.pdb
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\obj\Debug\Amido.WebDriver.Utilities.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\obj\Debug\Amido.WebDriver.Utilities.pdb
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Debug\WebDriver.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Debug\WebDriver.xml
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Debug\WebDriver.Support.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Debug\WebDriver.Support.xml

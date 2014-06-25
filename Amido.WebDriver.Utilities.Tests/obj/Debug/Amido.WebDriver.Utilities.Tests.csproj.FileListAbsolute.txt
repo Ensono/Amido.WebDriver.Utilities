@@ -1,0 +1,16 @@
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\Amido.WebDriver.Utilities.Tests.dll.config
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\Amido.WebDriver.Utilities.Tests.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\Amido.WebDriver.Utilities.Tests.pdb
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\Amido.WebDriver.Utilities.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\nunit.framework.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\Should.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\WebDriver.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\Amido.WebDriver.Utilities.pdb
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\nunit.framework.xml
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\WebDriver.xml
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\obj\Debug\Amido.WebDriver.Utilities.Tests.csprojResolveAssemblyReference.cache
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\obj\Debug\Amido.WebDriver.Utilities.Tests.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\obj\Debug\Amido.WebDriver.Utilities.Tests.pdb
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\chromedriver.exe
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\WebDriver.Support.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities.Tests\bin\Debug\WebDriver.Support.xml

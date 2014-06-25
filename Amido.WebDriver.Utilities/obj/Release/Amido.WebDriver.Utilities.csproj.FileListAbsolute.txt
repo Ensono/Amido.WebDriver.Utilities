@@ -1,0 +1,9 @@
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Release\Amido.WebDriver.Utilities.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Release\Amido.WebDriver.Utilities.pdb
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Release\WebDriver.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Release\WebDriver.Support.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Release\WebDriver.xml
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\bin\Release\WebDriver.Support.xml
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\obj\Release\Amido.WebDriver.Utilities.csprojResolveAssemblyReference.cache
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\obj\Release\Amido.WebDriver.Utilities.dll
+C:\Source\Amido.WebDriver.Utilities\Amido.WebDriver.Utilities\obj\Release\Amido.WebDriver.Utilities.pdb

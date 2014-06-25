@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Amido.WebDriver.Utilities</id>
+    <version>1.0.0</version>
+    <title>Amido.WebDriver.Utilities</title>
+    <authors>Sean McAlinden</authors>
+    <owners>Sean McAlinden</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Various utilities to aid Selenium web driver development including a grid aware web driver factory, selenium extensions including wait and element extensions.</description>
+    <summary>Various utilities to aid Selenium web driver development.</summary>
+    <tags>Selenium WebDriver Server BrowserStack</tags>
+    <dependencies>
+      <dependency id="Selenium.WebDriver" version="2.42.0" />
+      <dependency id="Selenium.Support" version="2.42.0" />
+    </dependencies>
+  </metadata>
+</package>
