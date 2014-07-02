@@ -10,6 +10,5 @@ namespace Amido.WebDriver.Utilities.Tests
     [TestFixture]
     public class WaitExtensionTests
     {
-        
     }
 }
