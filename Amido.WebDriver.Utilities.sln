@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amido.WebDriver.Utilities",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amido.WebDriver.Utilities.Tests", "Amido.WebDriver.Utilities.Tests\Amido.WebDriver.Utilities.Tests.csproj", "{F2D8D3ED-0C94-4E83-A3A2-DA7E4ECC88CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNugetTest", "MyNugetTest\MyNugetTest.csproj", "{F0DC78A5-12F6-4C76-A3D1-50D4857560CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F2D8D3ED-0C94-4E83-A3A2-DA7E4ECC88CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D8D3ED-0C94-4E83-A3A2-DA7E4ECC88CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D8D3ED-0C94-4E83-A3A2-DA7E4ECC88CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DC78A5-12F6-4C76-A3D1-50D4857560CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DC78A5-12F6-4C76-A3D1-50D4857560CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DC78A5-12F6-4C76-A3D1-50D4857560CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DC78A5-12F6-4C76-A3D1-50D4857560CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
