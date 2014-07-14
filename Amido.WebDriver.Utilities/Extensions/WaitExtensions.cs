@@ -1,5 +1,7 @@
 ﻿using System;
 
+using Amido.WebDriver.Utilities.Exceptions;
+
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
@@ -29,14 +31,26 @@ namespace Amido.WebDriver.Utilities.Extensions
         /// <param name="condition">The condition.</param>
         /// <param name="timeOutInSeconds">The time out in seconds.</param>
         /// <param name="pollingIntervalInMilliseconds">The polling interval in milliseconds.</param>
+        /// <param name="onErrorMessage">The error message to display if the wait times out</param>
         /// <returns></returns>
-        public static IWebElement WaitUntil(this IWebElement element, Func<IWebElement, bool> condition, int timeOutInSeconds = 10, int pollingIntervalInMilliseconds = 500)
+        public static IWebElement WaitUntil(this IWebElement element, Func<IWebElement, bool> condition, int timeOutInSeconds = 10, int pollingIntervalInMilliseconds = 500, string onErrorMessage = "")
         {
-            IWait<IWebElement> wait = new DefaultWait<IWebElement>(element);
-            wait.Timeout = TimeSpan.FromSeconds(timeOutInSeconds);
-            wait.PollingInterval = TimeSpan.FromMilliseconds(pollingIntervalInMilliseconds);
-            wait.Until(condition);
-            return element;
+            try
+            {
+                IWait<IWebElement> wait = new DefaultWait<IWebElement>(element);
+                wait.Timeout = TimeSpan.FromSeconds(timeOutInSeconds);
+                wait.PollingInterval = TimeSpan.FromMilliseconds(pollingIntervalInMilliseconds);
+                wait.Until(condition);
+                return element;
+            }
+            catch (Exception)
+            {
+                if (!string.IsNullOrWhiteSpace(onErrorMessage))
+                {
+                    throw new WaitException(onErrorMessage);
+                }
+                throw;
+            }
         }
     }
 }
